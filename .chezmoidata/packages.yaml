@@ -5,6 +5,7 @@ packages:
     casks:
       - "visual-studio-code"
       - "google-chrome"
+      - "notunes"
     caskspersonal:
       - "spotify"
     caskswork:
